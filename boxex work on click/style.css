@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+    display: inline-table;
+    cursor: pointer;
+    text-align: center;
+    line-height: 100px;
+}
+.box-1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+    
+    cursor: pointer;
+    text-align: center;
+    line-height: 100px;
+}
